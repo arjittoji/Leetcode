@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arjittoji/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/arjittoji/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0136-single-number](https://github.com/arjittoji/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/arjittoji/Leetcode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/arjittoji/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/arjittoji/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/arjittoji/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
