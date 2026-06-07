@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arjittoji/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/arjittoji/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/arjittoji/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/arjittoji/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arjittoji/Leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/arjittoji/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/arjittoji/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjittoji/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/arjittoji/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arjittoji/Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -25,9 +27,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arjittoji/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/arjittoji/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/arjittoji/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arjittoji/Leetcode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -38,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arjittoji/Leetcode/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arjittoji/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
