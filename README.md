@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/arjittoji/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/arjittoji/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/arjittoji/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/arjittoji/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/arjittoji/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/arjittoji/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
