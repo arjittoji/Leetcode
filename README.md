@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arjittoji/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/arjittoji/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arjittoji/Leetcode/tree/master/0217-contains-duplicate) |
+| [1189-maximum-number-of-balloons](https://github.com/arjittoji/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arjittoji/Leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/arjittoji/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/arjittoji/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/arjittoji/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
