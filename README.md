@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arjittoji/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/arjittoji/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/arjittoji/Leetcode/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/arjittoji/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arjittoji/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arjittoji/Leetcode/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arjittoji/Leetcode/tree/master/0011-container-with-most-water) |
 | [3689-maximum-total-subarray-value-i](https://github.com/arjittoji/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Simulation
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/arjittoji/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arjittoji/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
